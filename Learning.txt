@@ -1,0 +1,2 @@
+1. Write your mongod connection code in you index js only. else you will get MongooseError: Operation `products.insertOne()` buffering timed out after 10000ms this MongooseError
+ 2.  $gte and $lte stands for greater then or lesser. Monogdb methods   //It takes only numeric values

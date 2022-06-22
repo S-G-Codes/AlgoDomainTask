@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "625e5db19800c705fe38fb72"
+  },
+  "name": "Dell Latitude 5420",
+  "productCategory": "Electronics",
+  "productType": "Laptop",
+  "productPrice": 36520,
+  "ram": "8GB",
+  "cpu": "i5",
+  "rating": 0,
+  "warranty": "2 years",
+  "brand": "Dell",
+  "sellerId": 510,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f6502c33a439ee3a44942"
+  },
+  "name": "Dell Latitude 5420",
+  "productCategory": "Electronics",
+  "productType": "Laptop",
+  "productPrice": 36520,
+  "ram": "8GB",
+  "cpu": "i5",
+  "rating": 0,
+  "warranty": "2 years",
+  "brand": "Dell",
+  "sellerId": 544,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f66d3d7664b957b122ebd"
+  },
+  "name": "Lenevo T14 Gen2",
+  "productCategory": "Electronics",
+  "productType": "Laptop",
+  "productPrice": 40000,
+  "ram": "4 GB",
+  "cpu": "i5",
+ 
+  "rating": 0,
+
+  "brand": "Lenevo",
+  "sellerId": 1234,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f682ed7664b957b122ebf"
+  },
+  "name": "Samsung  WWW60R20 washing machine",
+  "productCategory": "Electronics",
+  "productType": "washing machine",
+  "productPrice": 22990,
+  "rating": 0,
+ 
+  "warranty": "2 years",
+  "brand": "Samsung Electronics",
+  "sellerId": 1234,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f69ced7664b957b122ec1"
+  },
+  "name": "OnePlus 9RT 5G",
+  "productCategory": "Electronics",
+  "productType": "Mobile Phone",
+  "productPrice": 42999,
+  "ram": "8 GB ",
+  "cpu": "888 SnapdragonTM",
+  
+  "rating": 0,
+
+  "warranty": "1 years",
+  "brand": "OnePlus",
+  "sellerId": 1234,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f6afcd7664b957b122ec3"
+  },
+  "name": "Mystery tee",
+  "productCategory": "Clothings",
+  "productType": "T-Shirts",
+  "productPrice": 499,
+  "rating": 0,
+  "size": "XS/S/M/L/XL",
+  
+  "gender": "male",
+  "sellerId": 4564566,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f6b8dd7664b957b122ec5"
+  },
+  "name": "Batman Emblem",
+  "productCategory": "Clothings",
+  "productType": "T-Shirts",
+  "productPrice": 699,
+  "rating": 0,
+  "size": "XS/S/M/L/XL",
+ 
+  "gender": "male/female",
+  "sellerId": 4564566,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f6cbbd7664b957b122ec7"
+  },
+  "name": "Slim Men Dark Blue Jeans",
+  "productCategory": "Clothings",
+  "productType": "Jeans",
+  "productPrice": 999,
+  "rating": 0,
+  "size": "XS/S/M/L/XL",
+  
+  "gender": "male",
+  "brand": "Flying Denim",
+  "sellerId": 4564566,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f6da5d7664b957b122ec9"
+  },
+  "name": "Indigo Blue Tapered Fit Full Length Jeans",
+  "productCategory": "Clothings",
+  "productType": "Jeans",
+  "productPrice": 1199,
+  "rating": 0,
+  "size": "28/30/32/34/36/38",
+ 
+  "gender": "male/Female",
+  "brand": "Bare Denim",
+  "sellerId": 4564566,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f6e9dd7664b957b122ecb"
+  },
+  "name": "Rich Dad Poor Dad",
+  "productCategory": "Books",
+  "productType": "Motivation",
+  "productPrice": 184,
+  "rating": 0,
+  "author": "Robert T. Kiyosaki",
+  "publisher": "Unknown",
+  "sellerId": 7896123,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f6f34d7664b957b122ecd"
+  },
+  "name": "The Time Machine",
+  "productCategory": "Books",
+  "productType": "Fiction",
+  "productPrice": 299,
+  "rating": 0,
+  "author": "H. G. wells",
+  "publisher": "Unknown",
+  "sellerId": 7896123,
+  "__v": 0
+}]
