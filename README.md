@@ -15,40 +15,40 @@ After installation of all dependencies run command nodemon app.js in command pro
 open Postman. create a new collection in Postman. now use following commond for maniputation with REST API.
 
 **For Adding products**
-
-localhost:8000/addaproduct:1234
+Note- You can take id from product.json file
+localhost:3030/api/products/addaproduct:id
 
 **For adding multiple products**
-
-localhost:8000/addMultipleproduct:510
+Note- You can take id from product.json file
+localhost:3030/api/products/addmultileproduct:id
 
 **Finding product by name**
 
-localhost:8000/productByName:Dell Latitude 5420
+localhost:3030/api/products/productByname:Dell Latitude 5420
 
 **Finding product by category**
 
-localhost:8000/productByCategory:Electronics
+localhost:3030/api/products/productByCategory:Electronics
 
 **Finding product by type**
-
-localhost:8000/productByType:Laptop
+Note- You can take productType from product.json file
+localhost:3030/api/products/productByType:productType
 
 **Finding product with a price range**
-
-localhost:8000/productByRange:200:1000
+Note- You can take lowest sng highest price from product.json file
+localhost:3030/api/products/productByRange:min:max
 
 **Finding product by seller with his particular id **
-
-localhost:8000/getProduct:4564566
+Note- You can take id from product.json file
+localhost:3030/api/products/displayProduct:id
 
 Updating a product by seller
-
-localhost:8000/update🔢625f6afcd7664b957b122ec3
+Note- You can take id and sellerId from product.json file
+localhost:3030/api/products/updateProduct:sellerId:id
 
 deleting a product by seller
-
-localhost:8000/delete:510:625e5db19800c705fe38fb70
+Note:You can take id and sellerId from product.json 
+localhost:3030/api/products/delete:sellerId:id
 
 I have uploaded database in .json with name product.json
 
