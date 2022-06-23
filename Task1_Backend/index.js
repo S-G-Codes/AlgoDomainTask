@@ -22,9 +22,9 @@ app.use(express.json());
 app.use("/api/products", productRoutes);
 
 //testing end point
-// app.get('/', (req,res) => {
-//     res.send("Welcome to our Home Page!")
-// })
+app.get('/', (req,res) => {
+    res.send("Welcome to our Home Page!")
+})
 
 
 

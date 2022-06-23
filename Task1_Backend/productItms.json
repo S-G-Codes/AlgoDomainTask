@@ -1,162 +1,163 @@
-[{
-  "_id": {
-    "$oid": "625e5db19800c705fe38fb72"
+[
+  {
+    "_id": { "$oid": "62b19a01abbeb463a389fe05" },
+    "name": "Dell Latitude 5420",
+    "productType": "Laptop",
+    "productCategory": "Electronics",
+    "productPrice": 36520,
+    "cpu": "i5",
+    "ram": "8GB",
+    "ratings": 0,
+    "brand": "Dell",
+    "warranty": "2 years",
+    "sellerId": 1,
+    "createdAt": { "$date": "2022-06-21T10:14:25.124Z" },
+    "updatedAt": { "$date": "2022-06-21T10:14:25.124Z" },
+    "__v": 0
   },
-  "name": "Dell Latitude 5420",
-  "productCategory": "Electronics",
-  "productType": "Laptop",
-  "productPrice": 36520,
-  "ram": "8GB",
-  "cpu": "i5",
-  "rating": 0,
-  "warranty": "2 years",
-  "brand": "Dell",
-  "sellerId": 510,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f6502c33a439ee3a44942"
+  {
+    "_id": { "$oid": "62b3ce5a6800cb34e6d7fddb" },
+    "name": "HM Oversize Tshirt",
+    "productType": "T-Shirts",
+    "productCategory": "Clothings",
+    "productPrice": 499,
+    "ratings": 0,
+    "size": "XS/S/M/L/XL",
+    "gender": "male",
+    "sellerId": 2,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:22:18.814Z" },
+    "updatedAt": { "$date": "2022-06-23T02:22:18.814Z" }
   },
-  "name": "Dell Latitude 5420",
-  "productCategory": "Electronics",
-  "productType": "Laptop",
-  "productPrice": 36520,
-  "ram": "8GB",
-  "cpu": "i5",
-  "rating": 0,
-  "warranty": "2 years",
-  "brand": "Dell",
-  "sellerId": 544,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f66d3d7664b957b122ebd"
+  {
+    "_id": { "$oid": "62b3cea06800cb34e6d7fddd" },
+    "name": "Puma Branded Tshirt",
+    "productType": "T-Shirts",
+    "productCategory": "Clothings",
+    "productPrice": 699,
+    "ratings": 0,
+    "size": "XS/S/M/L/XL",
+    "gender": "male/female",
+    "sellerId": 3,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:23:28.155Z" },
+    "updatedAt": { "$date": "2022-06-23T02:23:28.155Z" }
   },
-  "name": "Lenevo T14 Gen2",
-  "productCategory": "Electronics",
-  "productType": "Laptop",
-  "productPrice": 40000,
-  "ram": "4 GB",
-  "cpu": "i5",
- 
-  "rating": 0,
-
-  "brand": "Lenevo",
-  "sellerId": 1234,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f682ed7664b957b122ebf"
+  {
+    "_id": { "$oid": "62b3ced06800cb34e6d7fddf" },
+    "name": " Men Dark Black Jeans",
+    "productType": "Jeans",
+    "productCategory": "Clothings",
+    "productPrice": 999,
+    "ratings": 0,
+    "brand": " Denim",
+    "size": "XS/S/M/L/XL",
+    "gender": "male",
+    "sellerId": 4,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:24:16.424Z" },
+    "updatedAt": { "$date": "2022-06-23T02:24:16.424Z" }
   },
-  "name": "Samsung  WWW60R20 washing machine",
-  "productCategory": "Electronics",
-  "productType": "washing machine",
-  "productPrice": 22990,
-  "rating": 0,
- 
-  "warranty": "2 years",
-  "brand": "Samsung Electronics",
-  "sellerId": 1234,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f69ced7664b957b122ec1"
+  {
+    "_id": { "$oid": "62b3cf196800cb34e6d7fde1" },
+    "name": "Atomic Habit",
+    "productType": "Self Improving",
+    "productCategory": "Books",
+    "productPrice": 299,
+    "ratings": 0,
+    "author": "H. G. wells",
+    "publisher": "Unknown",
+    "sellerId": 5,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:25:29.073Z" },
+    "updatedAt": { "$date": "2022-06-23T02:25:29.073Z" }
   },
-  "name": "OnePlus 9RT 5G",
-  "productCategory": "Electronics",
-  "productType": "Mobile Phone",
-  "productPrice": 42999,
-  "ram": "8 GB ",
-  "cpu": "888 SnapdragonTM",
-  
-  "rating": 0,
-
-  "warranty": "1 years",
-  "brand": "OnePlus",
-  "sellerId": 1234,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f6afcd7664b957b122ec3"
+  {
+    "_id": { "$oid": "62b3cf4c6800cb34e6d7fde3" },
+    "name": "DataStructure with Java",
+    "productType": "Coding",
+    "productCategory": "Books",
+    "productPrice": 499,
+    "ratings": 0,
+    "author": "The Coffee",
+    "publisher": "Unknown",
+    "sellerId": 6,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:26:20.733Z" },
+    "updatedAt": { "$date": "2022-06-23T02:26:20.733Z" }
   },
-  "name": "Mystery tee",
-  "productCategory": "Clothings",
-  "productType": "T-Shirts",
-  "productPrice": 499,
-  "rating": 0,
-  "size": "XS/S/M/L/XL",
-  
-  "gender": "male",
-  "sellerId": 4564566,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f6b8dd7664b957b122ec5"
+  {
+    "_id": { "$oid": "62b3cf886800cb34e6d7fde5" },
+    "name": "Linux for Hackers",
+    "productType": "Coding",
+    "productCategory": "Books",
+    "productPrice": 499,
+    "ratings": 0,
+    "author": "Linus Torvalds",
+    "publisher": "Unknown",
+    "sellerId": 7,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:27:20.348Z" },
+    "updatedAt": { "$date": "2022-06-23T02:27:20.348Z" }
   },
-  "name": "Batman Emblem",
-  "productCategory": "Clothings",
-  "productType": "T-Shirts",
-  "productPrice": 699,
-  "rating": 0,
-  "size": "XS/S/M/L/XL",
- 
-  "gender": "male/female",
-  "sellerId": 4564566,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f6cbbd7664b957b122ec7"
+  {
+    "_id": { "$oid": "62b3cffc6800cb34e6d7fde7" },
+    "name": "Iphone 15",
+    "productType": "Mobile Phone",
+    "productCategory": "Electronics",
+    "productPrice": 150000,
+    "cpu": "M2 chip",
+    "ram": "8 GB ",
+    "ratings": 0,
+    "brand": "iphone",
+    "warranty": "1 years",
+    "sellerId": 101,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:29:16.287Z" },
+    "updatedAt": { "$date": "2022-06-23T02:29:16.287Z" }
   },
-  "name": "Slim Men Dark Blue Jeans",
-  "productCategory": "Clothings",
-  "productType": "Jeans",
-  "productPrice": 999,
-  "rating": 0,
-  "size": "XS/S/M/L/XL",
-  
-  "gender": "male",
-  "brand": "Flying Denim",
-  "sellerId": 4564566,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f6da5d7664b957b122ec9"
+  {
+    "_id": { "$oid": "62b3d0306800cb34e6d7fde9" },
+    "name": "Samsung Mikyway Galaxy",
+    "productType": "Mobile Phone",
+    "productCategory": "Electronics",
+    "productPrice": 50000,
+    "cpu": "Snapdragon 22",
+    "ram": "8 GB ",
+    "ratings": 0,
+    "brand": "Samsung",
+    "warranty": "1 years",
+    "sellerId": 102,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:30:08.451Z" },
+    "updatedAt": { "$date": "2022-06-23T02:30:08.451Z" }
   },
-  "name": "Indigo Blue Tapered Fit Full Length Jeans",
-  "productCategory": "Clothings",
-  "productType": "Jeans",
-  "productPrice": 1199,
-  "rating": 0,
-  "size": "28/30/32/34/36/38",
- 
-  "gender": "male/Female",
-  "brand": "Bare Denim",
-  "sellerId": 4564566,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f6e9dd7664b957b122ecb"
+  {
+    "_id": { "$oid": "62b3d0b16800cb34e6d7fded" },
+    "name": "LG Washing Machine",
+    "productType": "Washing Machine",
+    "productCategory": "Electronics",
+    "productPrice": 35000,
+    "ratings": 0,
+    "brand": "LG",
+    "warranty": "10 years",
+    "sellerId": 104,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:32:17.509Z" },
+    "updatedAt": { "$date": "2022-06-23T02:32:17.509Z" }
   },
-  "name": "Rich Dad Poor Dad",
-  "productCategory": "Books",
-  "productType": "Motivation",
-  "productPrice": 184,
-  "rating": 0,
-  "author": "Robert T. Kiyosaki",
-  "publisher": "Unknown",
-  "sellerId": 7896123,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "625f6f34d7664b957b122ecd"
-  },
-  "name": "The Time Machine",
-  "productCategory": "Books",
-  "productType": "Fiction",
-  "productPrice": 299,
-  "rating": 0,
-  "author": "H. G. wells",
-  "publisher": "Unknown",
-  "sellerId": 7896123,
-  "__v": 0
-}]
+  {
+    "_id": { "$oid": "62b3d0b16800cb34e6d7fded" },
+    "name": "LG Washing Machine",
+    "productType": "Washing Machine",
+    "productCategory": "Electronics",
+    "productPrice": 35000,
+    "ratings": 0,
+    "brand": "LG",
+    "warranty": "10 years",
+    "sellerId": 104,
+    "__v": 0,
+    "createdAt": { "$date": "2022-06-23T02:32:17.509Z" },
+    "updatedAt": { "$date": "2022-06-23T02:32:17.509Z" }
+  }
+]
